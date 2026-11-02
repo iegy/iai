@@ -1,0 +1,17 @@
+{
+  "name": "مو · روبوت فنار و IFM",
+  "short_name": "مو",
+  "description": "مو، روبوت محادثة بكل موديلات فنار و K2 Horizon و Jais 3",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E8E6D8",
+  "theme_color": "#3E4733",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
